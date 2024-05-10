@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "expo": "^50.0.14",
+    "firebase": "^10.9.0"
+  }
+}
